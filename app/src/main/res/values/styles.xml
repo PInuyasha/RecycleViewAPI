@@ -8,4 +8,341 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="CustomTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/ToolbarPrimaryDark</item>
+    </style>
+
+    <!-- style font text -->
+    <style name="FontTextNormalGray10">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text10</item>
+    </style>
+
+    <style name="FontTextNormalGray12">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text12</item>
+    </style>
+
+    <style name="FontTextNormalGray14">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text14</item>
+    </style>
+
+    <style name="FontTextNormalGray16">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text16</item>
+    </style>
+
+    <style name="FontTextNormalGray18">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text18</item>
+    </style>
+
+    <style name="FontTextNormalGray20">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text20</item>
+    </style>
+
+    <style name="FontTextNormalGray22">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text22</item>
+    </style>
+
+    <style name="FontTextNormalGray24">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text24</item>
+    </style>
+
+    <style name="FontTextNormalGray26">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text26</item>
+    </style>
+
+    <style name="FontTextNormalGray28">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text28</item>
+    </style>
+
+    <style name="FontTextNormalGray30">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text30</item>
+    </style>
+
+    <style name="FontTextNormalGray32">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text32</item>
+    </style>
+
+    <style name="FontTextNormalGray34">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text34</item>
+    </style>
+
+    <style name="FontTextNormalGray36">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text36</item>
+    </style>
+
+    <style name="FontTextNormalGray38">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text38</item>
+    </style>
+
+    <style name="FontTextNormalGray40">
+        <item name="android:textColor" >@color/colorTextNormalGray</item>
+        <item name="android:textSize" >@dimen/font_text40</item>
+    </style>
+
+    <style name="FontTextNormalWhite10">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text10</item>
+    </style>
+
+    <style name="FontTextNormalWhite12">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text12</item>
+    </style>
+
+    <style name="FontTextNormalWhite14">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text14</item>
+    </style>
+
+    <style name="FontTextNormalWhite16">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text16</item>
+    </style>
+
+    <style name="FontTextNormalWhite18">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text18</item>
+    </style>
+
+    <style name="FontTextNormalWhite20">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text20</item>
+    </style>
+
+    <style name="FontTextNormalWhite22">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text22</item>
+    </style>
+
+    <style name="FontTextNormalWhite24">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text24</item>
+    </style>
+
+    <style name="FontTextNormalWhite26">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text26</item>
+    </style>
+
+    <style name="FontTextNormalWhite28">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text28</item>
+    </style>
+
+    <style name="FontTextNormalWhite30">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text30</item>
+    </style>
+
+    <style name="FontTextNormalWhite32">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text32</item>
+    </style>
+
+    <style name="FontTextNormalWhite34">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text34</item>
+    </style>
+
+    <style name="FontTextNormalWhite36">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text36</item>
+    </style>
+
+    <style name="FontTextNormalWhite38">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text38</item>
+    </style>
+
+    <style name="FontTextNormalWhite40">
+        <item name="android:textColor" >@color/colorTextNormalWhite</item>
+        <item name="android:textSize" >@dimen/font_text40</item>
+    </style>
+
+    <style name="FontTextNormalBlack10">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text10</item>
+    </style>
+
+    <style name="FontTextNormalBlack12">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text12</item>
+    </style>
+
+    <style name="FontTextNormalBlack14">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text14</item>
+    </style>
+
+    <style name="FontTextNormalBlack16">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text16</item>
+    </style>
+
+    <style name="FontTextNormalBlack18">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text18</item>
+    </style>
+
+    <style name="FontTextNormalBlack20">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text20</item>
+    </style>
+
+    <style name="FontTextNormalBlack22">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text22</item>
+    </style>
+
+    <style name="FontTextNormalBlack24">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text24</item>
+    </style>
+
+    <style name="FontTextNormalBlack26">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text26</item>
+    </style>
+
+    <style name="FontTextNormalBlack28">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text28</item>
+    </style>
+
+    <style name="FontTextNormalBlack30">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text30</item>
+    </style>
+
+    <style name="FontTextNormalBlack32">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text32</item>
+    </style>
+
+    <style name="FontTextNormalBlack34">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text34</item>
+    </style>
+
+    <style name="FontTextNormalBlack36">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text36</item>
+    </style>
+
+    <style name="FontTextNormalBlack38">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text38</item>
+    </style>
+
+    <style name="FontTextNormalBlack40">
+        <item name="android:textColor" >@color/colorTextNormalBlack</item>
+        <item name="android:textSize" >@dimen/font_text40</item>
+    </style>
+
+    <style name="FontTextNormalGreen10">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text10</item>
+    </style>
+
+    <style name="FontTextNormalGreen12">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text12</item>
+    </style>
+
+    <style name="FontTextNormalGreen14">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text14</item>
+    </style>
+
+    <style name="FontTextNormalGreen16">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text16</item>
+    </style>
+
+    <style name="FontTextNormalGreen18">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text18</item>
+    </style>
+
+    <style name="FontTextNormalGreen20">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text20</item>
+    </style>
+
+    <style name="FontTextNormalGreen22">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text22</item>
+    </style>
+
+    <style name="FontTextNormalGreen24">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text24</item>
+    </style>
+
+    <style name="FontTextNormalGreen26">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text26</item>
+    </style>
+
+    <style name="FontTextNormalGreen28">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text28</item>
+    </style>
+
+    <style name="FontTextNormalGreen30">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text30</item>
+    </style>
+
+    <style name="FontTextNormalGreen32">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text32</item>
+    </style>
+
+    <style name="FontTextNormalGreen34">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text34</item>
+    </style>
+
+    <style name="FontTextNormalGreen36">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text36</item>
+    </style>
+
+    <style name="FontTextNormalGreen38">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text38</item>
+    </style>
+
+    <style name="FontTextNormalGreen40">
+        <item name="android:textColor" >@color/colorTextNormalGreen</item>
+        <item name="android:textSize" >@dimen/font_text40</item>
+    </style>
+
+    <style name="ThemeDialogFundTransfer" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@style/ThemeDialogChequeReportAnimation</item>
+    </style>
+
+    <style name="ThemeDialogChequeReportAnimation">
+        <item name="android:windowEnterAnimation">@anim/fadein</item>
+        <item name="android:windowExitAnimation">@anim/fadeout</item>
+    </style>
+
 </resources>

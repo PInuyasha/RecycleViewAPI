@@ -4,4 +4,78 @@
          would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
     <dimen name="activity_horizontal_margin">64dp</dimen>
     <dimen name="activity_vertical_margin">64dp</dimen>
+
+    // font text
+    <dimen name="font_text10">18sp</dimen>
+    <dimen name="font_text12">20sp</dimen>
+    <dimen name="font_text14">22sp</dimen>
+    <dimen name="font_text16">24sp</dimen>
+    <dimen name="font_text18">26sp</dimen>
+    <dimen name="font_text20">28sp</dimen>
+    <dimen name="font_text22">30sp</dimen>
+    <dimen name="font_text24">32sp</dimen>
+    <dimen name="font_text26">34sp</dimen>
+    <dimen name="font_text28">36sp</dimen>
+    <dimen name="font_text30">38sp</dimen>
+    <dimen name="font_text32">40sp</dimen>
+    <dimen name="font_text34">42sp</dimen>
+    <dimen name="font_text36">44sp</dimen>
+    <dimen name="font_text38">46sp</dimen>
+    <dimen name="font_text40">48sp</dimen>
+
+    // padding_margin
+    <dimen name="padding_margin">8dp</dimen>
+    <dimen name="padding_margin1">9dp</dimen>
+    <dimen name="padding_margin2">10dp</dimen>
+    <dimen name="padding_margin4">12dp</dimen>
+    <dimen name="padding_margin5">13dp</dimen>
+    <dimen name="padding_margin6">14dp</dimen>
+    <dimen name="padding_margin8">16dp</dimen>
+    <dimen name="padding_margin10">18dp</dimen>
+    <dimen name="padding_margin12">20dp</dimen>
+    <dimen name="padding_margin14">22dp</dimen>
+    <dimen name="padding_margin16">24dp</dimen>
+    <dimen name="padding_margin18">26dp</dimen>
+    <dimen name="padding_margin20">28dp</dimen>
+    <dimen name="padding_margin22">30dp</dimen>
+    <dimen name="padding_margin24">32dp</dimen>
+    <dimen name="padding_margin26">34dp</dimen>
+    <dimen name="padding_margin28">36dp</dimen>
+    <dimen name="padding_margin30">38dp</dimen>
+    <dimen name="padding_margin32">40dp</dimen>
+    <dimen name="padding_margin34">42dp</dimen>
+    <dimen name="padding_margin36">44dp</dimen>
+    <dimen name="padding_margin38">46dp</dimen>
+    <dimen name="padding_margin40">48dp</dimen>
+    <dimen name="padding_margin42">50dp</dimen>
+    <dimen name="padding_margin44">52dp</dimen>
+    <dimen name="padding_margin46">54dp</dimen>
+    <dimen name="padding_margin48">56dp</dimen>
+    <dimen name="padding_margin50">58dp</dimen>
+    <dimen name="padding_margin52">60dp</dimen>
+    <dimen name="padding_margin54">62dp</dimen>
+    <dimen name="padding_margin56">64dp</dimen>
+    <dimen name="padding_margin58">66dp</dimen>
+    <dimen name="padding_margin60">68dp</dimen>
+    <dimen name="padding_margin62">70dp</dimen>
+    <dimen name="padding_margin64">72dp</dimen>
+    <dimen name="padding_margin66">74dp</dimen>
+    <dimen name="padding_margin68">76dp</dimen>
+    <dimen name="padding_margin70">78dp</dimen>
+    <dimen name="padding_margin72">80dp</dimen>
+    <dimen name="padding_margin74">82dp</dimen>
+    <dimen name="padding_margin76">84dp</dimen>
+    <dimen name="padding_margin78">86dp</dimen>
+    <dimen name="padding_margin80">88dp</dimen>
+    <dimen name="padding_margin82">90dp</dimen>
+    <dimen name="padding_margin84">92dp</dimen>
+    <dimen name="padding_margin86">94dp</dimen>
+    <dimen name="padding_margin88">96dp</dimen>
+    <dimen name="padding_margin90">98dp</dimen>
+    <dimen name="padding_margin92">100dp</dimen>
+    <dimen name="padding_margin94">102dp</dimen>
+    <dimen name="padding_margin96">104dp</dimen>
+    <dimen name="padding_margin98">106dp</dimen>
+    <dimen name="padding_margin100">108dp</dimen>
+
 </resources>

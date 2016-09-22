@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">ทดสอบรีไซด์เคิลวิวโดยการยิ่งเอพีไอ</string>
     <string name="btn_ok">ตกลง</string>
+    <string name="txt_hello">สวัสดีชาวโลก!</string>
+    <string name="txt_capital">เมืองหลวง</string>
+    <string name="txt_continent">ทวีป</string>
+    <string name="txt_country">ประเทศ</string>
+    <string name="txt_currency">สกุลเงิน</string>
+
 </resources>

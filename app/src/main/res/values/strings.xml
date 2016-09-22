@@ -1,4 +1,15 @@
 <resources>
+
     <string name="app_name">RecycleViewAPI</string>
-    <string name="btn_ok">OK</string>
+
+    <string name="imageViewContent">imageViewContent</string>
+
+    <string name="btn_ok">Ok</string>
+
+    <string name="txt_hello">Hello World!</string>
+    <string name="txt_country">Country</string>
+    <string name="txt_capital">Capital</string>
+    <string name="txt_currency">Currency</string>
+    <string name="txt_continent">Continent</string>
+
 </resources>

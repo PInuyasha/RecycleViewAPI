@@ -1,0 +1,22 @@
+
+-  request:
+      method: POST
+      url: /getContinent
+      post: '{"continent": "asean"}'
+   response:
+      status: 200
+      headers:
+         content-type: application/json
+      file: responseAsean.json
+
+
+
+-  request:
+      method: POST
+      url: /getContinent
+      post: '{"continent": "EU"}'
+   response:
+      status: 200
+      headers:
+         content-type: application/json
+      file: responseEurope.json

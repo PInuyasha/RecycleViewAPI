@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="colorTextNormalBlack">#212121</color>
+    <color name="colorTextNormalGray">#727272</color>
+    <color name="colorTextNormalWhite">#FFFFFF</color>
+    <color name="colorTextNormalGreen">#54B265</color>
+
+    <color name="Black">#000000</color>
+    <color name="colorPressedClick">#33FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="backgroundApp">#ECECEC</color>
+    <color name="backgroundCardView">#faebd7</color>
+    <color name="ToolbarPrimaryDark">#54B265</color>
+
 </resources>

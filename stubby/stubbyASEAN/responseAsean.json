@@ -1,0 +1,86 @@
+{
+
+  "countrirs": [
+    {
+      "imagesFlagContinent": "http://asean.org/wp-content/uploads/2015/12/logo-asean-hi1.png",
+      "imagesFlagCountry": "http://www.asean.org/wp-content/uploads/2012/05/Flag_of_Brunei-01-e1456993078833.jpg",
+      "nameContinent": "Asean",
+      "nameCountry": "Brunei Darussalam",
+      "nameCapital": "Bandar Seri Begawan",
+      "currency": "Brunei Dollar"
+    },
+    {
+      "imagesFlagContinent": "http://asean.org/wp-content/uploads/2015/12/logo-asean-hi1.png",
+      "imagesFlagCountry": "http://www.asean.org/wp-content/uploads/2012/05/Flag_of_Cambodia-01-e1456993037933.jpg",
+      "nameContinent": "Asean",
+      "nameCountry": "Cambodia",
+      "nameCapital": "Phnom Penh",
+      "currency": "Riel"
+    },
+    {
+      "imagesFlagContinent": "http://asean.org/wp-content/uploads/2015/12/logo-asean-hi1.png",
+      "imagesFlagCountry": "http://www.asean.org/wp-content/uploads/2012/05/Flag_of_Indonesia-01-e1456992989977.jpg",
+      "nameContinent": "Asean",
+      "nameCountry": "Indonesia",
+      "nameCapital": "Jakarta",
+      "currency": "Rupiah"
+    },
+    {
+      "imagesFlagContinent": "http://asean.org/wp-content/uploads/2015/12/logo-asean-hi1.png",
+      "imagesFlagCountry": "http://www.asean.org/wp-content/uploads/2012/05/Flag_of_Laos-01-e1456992960442.jpg",
+      "nameContinent": "Asean",
+      "nameCountry": "Lao PDR",
+      "nameCapital": "Vientiane",
+      "currency": "Kip"
+    },
+    {
+      "imagesFlagContinent": "http://asean.org/wp-content/uploads/2015/12/logo-asean-hi1.png",
+      "imagesFlagCountry": "http://www.asean.org/wp-content/uploads/2012/05/Flag_of_Malaysia-01-e1456992923180.jpg",
+      "nameContinent": "Asean",
+      "nameCountry": "Malaysia",
+      "nameCapital": "Kuala Lumpur",
+      "currency": "Ringgit"
+    },
+    {
+      "imagesFlagContinent": "http://asean.org/wp-content/uploads/2015/12/logo-asean-hi1.png",
+      "imagesFlagCountry": "http://www.asean.org/wp-content/uploads/2012/05/Flag_of_Myanmar-01-e1456992867392.jpg",
+      "nameContinent": "Asean",
+      "nameCountry": "Myanmar",
+      "nameCapital": "Nay Pyi Taw",
+      "currency": "Kyat"
+    },
+    {
+      "imagesFlagContinent": "http://asean.org/wp-content/uploads/2015/12/logo-asean-hi1.png",
+      "imagesFlagCountry": "http://www.asean.org/wp-content/uploads/2012/05/Flag_of_the_Philippines-01-e1456992734443.jpg",
+      "nameContinent": "Asean",
+      "nameCountry": "Philippines",
+      "nameCapital": "Manila",
+      "currency": "Peso"
+    },
+    {
+      "imagesFlagContinent": "http://asean.org/wp-content/uploads/2015/12/logo-asean-hi1.png",
+      "imagesFlagCountry": "http://www.asean.org/wp-content/uploads/2012/05/Flag_of_Singapore-01-2-e1456992604763.jpg",
+      "nameContinent": "Asean",
+      "nameCountry": "Singapore",
+      "nameCapital": "Singapore",
+      "currency": "Singapore Dollar"
+    },
+    {
+      "imagesFlagContinent": "http://asean.org/wp-content/uploads/2015/12/logo-asean-hi1.png",
+      "imagesFlagCountry": "http://www.asean.org/wp-content/uploads/2012/05/Flag_of_Thailand-01-e1456992789846.jpg",
+      "nameContinent": "Asean",
+      "nameCountry": "Thailand",
+      "nameCapital": "Bangkok",
+      "currency": "Baht"
+    },
+    {
+      "imagesFlagContinent": "http://asean.org/wp-content/uploads/2015/12/logo-asean-hi1.png",
+      "imagesFlagCountry": "http://www.asean.org/wp-content/uploads/2012/05/Flag_of_Vietnam-01-e1456992769953.jpg",
+      "nameContinent": "Asean",
+      "nameCountry": "Viet Nam",
+      "nameCapital": "Ha Noi",
+      "currency": "Dong"
+    }
+  ]
+
+}
