@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/backgroundApp"
-    tools:context="com.example.recycleview.recycleviewapi.activity.MainActivity">
+    tools:context="com.example.recycleview.recycleviewapi.activity.ContinentActivity">
 
     <LinearLayout
         android:layout_width="match_parent"

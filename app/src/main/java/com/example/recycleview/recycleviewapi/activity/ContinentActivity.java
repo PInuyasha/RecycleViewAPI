@@ -8,13 +8,13 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
-import com.example.recycleview.recycleviewapi.adapter.MyAdapter;
+import com.example.recycleview.recycleviewapi.adapter.ContinentAdapter;
 import com.example.recycleview.recycleviewapi.R;
 import com.example.recycleview.recycleviewapi.model.ContinentRequest;
 import com.example.recycleview.recycleviewapi.model.ContinentResponse;
-import com.example.recycleview.recycleviewapi.model.Country;
-import com.example.recycleview.recycleviewapi.rest.MyClient;
-import com.example.recycleview.recycleviewapi.rest.MyInterfaceApi;
+import com.example.recycleview.recycleviewapi.model.CountryResponse;
+import com.example.recycleview.recycleviewapi.rest.ContinentService;
+import com.example.recycleview.recycleviewapi.rest.ContinentApi;
 
 import java.util.List;
 
@@ -22,8 +22,8 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-public class MainActivity extends AppCompatActivity {
-    private static final String TAG = MainActivity.class.getSimpleName();
+public class ContinentActivity extends AppCompatActivity {
+    private static final String TAG = ContinentActivity.class.getSimpleName();
 
     private RecyclerView mRecyclerView;
     private RecyclerView.Adapter mAdapter;
@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         mLayoutManager = new LinearLayoutManager(this);
         mRecyclerView.setLayoutManager(mLayoutManager);
 
-        MyInterfaceApi api = MyClient.getRetrofit().create(MyInterfaceApi.class);
+        ContinentApi api = ContinentService.getRetrofit().create(ContinentApi.class);
 
         ContinentRequest request = new ContinentRequest();
         request.setContinent("asean");
@@ -47,12 +47,12 @@ public class MainActivity extends AppCompatActivity {
         call.enqueue(new Callback<ContinentResponse>() {
             @Override
             public void onResponse(Call<ContinentResponse> call, Response<ContinentResponse> response) {
-                List<Country> country = response.body().getCountrirs();
+                List<CountryResponse> countryResponse = response.body().getCountrirs();
 
-                mAdapter = new MyAdapter(country, getApplicationContext());
+                mAdapter = new ContinentAdapter(countryResponse, getApplicationContext());
                 mRecyclerView.setAdapter(mAdapter);
 
-                Log.d(TAG,"country" + country.toString());
+                Log.d(TAG,"countryResponse" + countryResponse.toString());
             }
 
             @Override

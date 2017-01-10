@@ -9,8 +9,6 @@
          content-type: application/json
       file: responseAsean.json
 
-
-
 -  request:
       method: POST
       url: /getContinent

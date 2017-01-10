@@ -11,7 +11,7 @@ import retrofit2.http.POST;
  * Created by STR01587 on 21/9/2559.
  */
 
-public interface MyInterfaceApi {
+public interface ContinentApi {
 
     @POST("getContinent")
     Call<ContinentResponse> getContinent(@Body ContinentRequest request);

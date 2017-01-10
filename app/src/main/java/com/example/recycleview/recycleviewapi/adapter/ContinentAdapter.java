@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.example.recycleview.recycleviewapi.R;
-import com.example.recycleview.recycleviewapi.model.Country;
+import com.example.recycleview.recycleviewapi.model.CountryResponse;
 
 import java.util.List;
 
@@ -18,9 +18,9 @@ import java.util.List;
  * Created by STR01587 on 20/9/2559.
  */
 
-public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
+public class ContinentAdapter extends RecyclerView.Adapter<ContinentAdapter.ViewHolder> {
 
-    private List<Country> mDataset;
+    private List<CountryResponse> mDataset;
     private Context context;
 
 
@@ -43,20 +43,20 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
         }
     }
 
-    public MyAdapter(List<Country> mDataset, Context context){
+    public ContinentAdapter(List<CountryResponse> mDataset, Context context){
         this.mDataset = mDataset;
         this.context = context;
     }
 
     @Override
-    public MyAdapter.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+    public ContinentAdapter.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         View v = LayoutInflater.from(parent.getContext()).inflate(R.layout.cardview_data, parent, false);
         ViewHolder vh = new ViewHolder(v);
         return vh;
     }
 
     @Override
-    public void onBindViewHolder(MyAdapter.ViewHolder holder, int position) {
+    public void onBindViewHolder(ContinentAdapter.ViewHolder holder, int position) {
         Glide.with(context).load(mDataset.get(position).getImagesFlagContinent()).into(holder.mImageFlagContinent);
         Glide.with(context).load(mDataset.get(position).getImagesFlagCountry()).into(holder.mImageFlagCountry);
         holder.mTextContinent.setText(mDataset.get(position).getNameContinent());

@@ -8,13 +8,13 @@ import java.util.List;
 
 public class ContinentResponse {
 
-    private List<Country> countrirs;
+    private List<CountryResponse> countrirs;
 
-    public List<Country> getCountrirs() {
+    public List<CountryResponse> getCountrirs() {
         return countrirs;
     }
 
-    public void setCountrirs(List<Country> countrirs) {
+    public void setCountrirs(List<CountryResponse> countrirs) {
         this.countrirs = countrirs;
     }
 

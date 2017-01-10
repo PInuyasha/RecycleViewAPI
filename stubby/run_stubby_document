@@ -1,2 +1,1 @@
-
-java -jar stubby4j-3.3.0.jar -w -s 80 -d stubbyASEAN\asean.yaml -l 10.215.136.45
+java -jar stubby4j-3.3.0.jar -w -s 80 -d stubbyASEAN\asean.yaml -l 172.20.120.121
